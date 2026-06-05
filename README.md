@@ -90,63 +90,68 @@ Currently working as a **Data Analytics Intern at Zetheta Algorithms Private Lim
 
 ## 📌 Featured Projects
 
-### 🎵 Spotify Music Analytics Dashboard
+### 🎵 Spotify Analytics Dashboard
 
-**Tech:** Power BI | DAX | Power Query
+**Power BI | DAX | Power Query**
 
-* Built an interactive dashboard analyzing 950+ tracks and 489B+ streams.
-* Compared performance across Spotify, Apple Music, and Deezer.
-* Developed KPI cards, artist rankings, trend analysis, and audio-feature insights.
+Built an interactive dashboard analyzing 950+ tracks and 489B+ streams across Spotify, Apple Music, and Deezer. Developed KPI cards, artist rankings, platform comparisons, and audio feature analysis to uncover music consumption trends.
 
 ---
 
 ### 🛒 End-to-End Retail Sales Analysis
 
-**Tech:** SQL | Python | Power BI
+**SQL | Python | Power BI**
 
-* Performed data extraction, cleaning, exploratory analysis, and visualization.
-* Built KPI dashboards to monitor sales performance and customer behavior.
-* Generated actionable insights to improve business decision-making.
+Performed complete analytics workflow including data extraction, cleaning, exploratory analysis, KPI tracking, and dashboard development. Generated business insights on sales performance, customer behavior, and profitability.
 
 ---
 
-### 📈 Sales Dashboard with Forecasting
+### 📈 Sales Dashboard & Forecasting
 
-**Tech:** Power BI | DAX | Power Query
+**Power BI | DAX | Time Series Forecasting**
 
-* Analyzed large-scale sales datasets with interactive visualizations.
-* Developed regional and category-wise performance dashboards.
-* Implemented forecasting models for future sales trend analysis.
+Designed an interactive sales performance dashboard with trend analysis, regional performance tracking, and sales forecasting to support business planning and decision-making.
+
+---
+
+### 🗄️ SQL Business Analysis Project
+
+**SQL | MySQL**
+
+Solved real-world business problems using advanced SQL queries including joins, CTEs, window functions, aggregations, and KPI analysis to derive actionable business insights.
 
 ---
 
 ### 🤖 AIVA – AI Virtual Analyst
 
-**Tech:** Python | Flask | Chart.js | Tailwind CSS
+**Python | Flask | Chart.js | Tailwind CSS**
 
-* Developed an AI-powered analytics platform for automated data analysis.
-* Enabled CSV uploads, preprocessing, trend detection, and visualization.
-* Generated business insights and analytical reports automatically.
-
----
-
-### 📱 Mobile Sales Dashboard
-
-**Tech:** Power BI | DAX
-
-* Analyzed mobile sales performance across multiple Indian cities.
-* Created dashboards for brand performance, payment analysis, and sales trends.
-* Designed interactive reports using slicers and drill-through features.
+Developed an AI-powered analytics platform capable of automated preprocessing, visualization, trend detection, dashboard generation, and insight extraction from uploaded datasets.
 
 ---
 
 ### 📦 Amazon Product Analysis (EDA)
 
-**Tech:** Python | Pandas | Matplotlib | Seaborn
+**Python | Pandas | NumPy | Matplotlib | Seaborn**
 
-* Conducted exploratory data analysis on 1,400+ products.
-* Identified pricing trends, discount patterns, and customer rating behavior.
-* Generated visual insights using Python visualization libraries.
+Conducted exploratory data analysis on 1400+ products to identify pricing trends, discount behavior, rating distributions, and customer purchasing patterns.
+
+---
+
+### 🏆 BrowzBot – Chrome Extension
+
+**JavaScript | Browser Automation**
+
+Hackathon-winning browser automation extension developed during Infinity 2025. Designed to automate repetitive web tasks and improve productivity through intelligent workflow automation.
+
+---
+
+### 🎙️ Lynax – Desktop Voice Assistant
+
+**Python | APIs | Automation**
+
+Built an AI-powered desktop assistant capable of voice commands, application control, reminders, system automation, and productivity enhancement.
+
 
 ---
 
