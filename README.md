@@ -94,18 +94,11 @@ ishwar = {
 |-------------|---------|
 | 🥇 Hackathon Winner | Infinity 2025 — BrowzBot Chrome Extension |
 | 🎓 Academic Excellence | Ranked 1st in Class |
-| 📊 Internship | Data Analytics Intern — Zetheta Algorithms |
+
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ishwar-sahani&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishwar-sahani&layout=compact&theme=tokyonight" width="48%" />
-</p>
-
----
 
 ## 📫 Connect With Me
 
