@@ -1,169 +1,125 @@
-# 👋 Hi, I'm Ishwar Sahani
+<h1 align="center">Hi there, I'm Ishwar Sahani 👋</h1>
 
-### Data Analyst Intern | Power BI Developer | SQL | Python | Business Intelligence
+<h3 align="center">Data Analyst | Power BI Developer | SQL | Python | Business Intelligence</h3>
 
-📍 Pune, Maharashtra, India
-
-I am a Data Analyst passionate about transforming raw data into meaningful business insights through data visualization, analytics, and storytelling. I enjoy building interactive dashboards, uncovering trends, and solving real-world business problems using data.
-
-Currently working as a **Data Analytics Intern at Zetheta Algorithms Private Limited**, where I work on industry-oriented analytics projects involving financial data analysis, business intelligence, dashboard development, and data-driven decision making.
+<p align="center">
+  <a href="https://www.linkedin.com/in/ishwarsahani18" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/ishwar-sahani" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=ishwar-sahani&style=for-the-badge&color=blue" />
+</p>
 
 ---
 
 ## 🚀 About Me
 
-* 📊 Data Analytics Intern at Zetheta Algorithms Private Limited
-* 📈 Skilled in Power BI, SQL, Python, Excel, and Business Intelligence
-* 🧹 Experienced in Data Cleaning, EDA, Data Modeling, and KPI Analysis
-* 📉 Building interactive dashboards and analytical reports for business insights
-* 🤖 Exploring AI-powered analytics and Machine Learning applications
-* 🏆 Winner of Infinity 2025 Hackathon
-* 🎓 Academic Excellence Award – Ranked 1st in Class
+```python
+ishwar = {
+    "role"      : "Data Analytics Intern @ Zetheta Algorithms Pvt. Ltd.",
+    "location"  : "Pune, Maharashtra, India",
+    "skills"    : ["Power BI", "SQL", "Python", "MySQL", "Excel"],
+    "focus"     : ["Business Intelligence", "EDA", "Data Modeling", "DAX"],
+    "currently" : "Building End-to-End Analytics Projects",
+    "motto"     : "Turning Data into Decisions 📊"
+}
+```
+
+- 🏢 **Data Analytics Intern** at Zetheta Algorithms Pvt. Ltd. — BFSI domain
+- 📊 Passionate about **transforming raw data into business insights**
+- 🏆 **Winner** — Infinity 2025 Hackathon (BrowzBot)
+- 🥇 **Academic Excellence Award** — Ranked 1st in Class
+- 🌱 Currently exploring **Machine Learning & Predictive Analytics**
 
 ---
 
-## 💼 Professional Experience
+## 🛠️ Tech Stack
 
-### Data Analytics Intern | Zetheta Algorithms Private Limited
+### 📊 Analytics & BI
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-*June 2026 – Present*
+### 🐍 Programming
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-* Working on BFSI (Banking, Financial Services & Insurance) analytics projects focused on risk assessment, portfolio analysis, and business intelligence.
-* Analyzing large datasets using SQL, Python, Excel, and Power BI to identify trends and generate actionable insights.
-* Developing interactive dashboards and analytical reports for business stakeholders.
-* Performing data cleaning, transformation, modeling, and visualization to support decision-making.
-* Building advanced DAX measures and KPI-driven dashboards in Power BI.
-* Contributing to data-driven solutions for financial and operational performance analysis.
+### 📦 Python Libraries
+![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
----
-
-## 🛠️ Technical Skills
-
-### Data Analytics
-
-* Data Analysis
-* Exploratory Data Analysis (EDA)
-* Data Cleaning
-* Data Visualization
-* Dashboard Development
-* KPI Reporting
-* Data Storytelling
-* Business Intelligence
-
-### Power BI
-
-* DAX
-* Power Query
-* Data Modeling
-* Dashboard Design
-* Interactive Reports
-
-### Programming & Databases
-
-* SQL
-* Python
-* MySQL
-* Java
-* C
-* C++
-* JavaScript
-* PHP
-
-### Python Libraries
-* Pandas * NumPy * Matplotlib * Seaborn * Flask
-
-### Tools : 
-* Power BI * Excel * MySQL * Jupyter Notebook * VS Code * Git & GitHub
+### 🛠️ Tools
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
 ## 📌 Featured Projects
 
-### 🎵 Spotify Analytics Dashboard
-
-**Power BI | DAX | Power Query**
-
-Built an interactive dashboard analyzing 950+ tracks and 489B+ streams across Spotify, Apple Music, and Deezer. Developed KPI cards, artist rankings, platform comparisons, and audio feature analysis to uncover music consumption trends.
-
----
-
-### 🛒 End-to-End Retail Sales Analysis
-
-**SQL | Python | Power BI**
-
-Performed complete analytics workflow including data extraction, cleaning, exploratory analysis, KPI tracking, and dashboard development. Generated business insights on sales performance, customer behavior, and profitability.
+| Project | Tools | Description |
+|---------|-------|-------------|
+| 🛒 **Retail Sales End-to-End Analysis** | Python · SQL · Power BI | Complete analytics pipeline — 1M transactions, Star Schema, 4-page dashboard |
+| 🎵 **Spotify Analytics Dashboard** | Power BI · DAX | 489B+ streams analyzed, platform comparison, audio features analysis |
+| 📈 **Sales Dashboard & Forecasting** | Power BI · DAX | Sales trends, regional analysis, 15-day forecasting |
+| 🗄️ **Zomato SQL Analysis** | MySQL | 19 business queries — JOINs, CTEs, Window Functions, Stored Procedures |
+| 📦 **Amazon Product EDA** | Python · Pandas · Seaborn | 1400+ products — pricing trends, discount analysis, rating patterns |
+| 🤖 **AIVA – AI Virtual Analyst** | Python · Flask · Chart.js | AI-powered analytics platform with automated insights |
+| 🏆 **BrowzBot – Chrome Extension** | JavaScript | Hackathon-winning browser automation tool — Infinity 2025 |
+| 🎙️ **Lynax – Voice Assistant** | Python · APIs | AI desktop assistant with voice commands and automation |
 
 ---
 
-### 📈 Sales Dashboard & Forecasting
+## 💼 Experience
 
-**Power BI | DAX | Time Series Forecasting**
+### 📊 Data Analytics Intern | Zetheta Algorithms Pvt. Ltd.
+*June 2026 – Present | Remote*
 
-Designed an interactive sales performance dashboard with trend analysis, regional performance tracking, and sales forecasting to support business planning and decision-making.
-
----
-
-### 🗄️ SQL Business Analysis Project
-
-**SQL | MySQL**
-
-Solved real-world business problems using advanced SQL queries including joins, CTEs, window functions, aggregations, and KPI analysis to derive actionable business insights.
-
----
-
-### 🤖 AIVA – AI Virtual Analyst
-
-**Python | Flask | Chart.js | Tailwind CSS**
-
-Developed an AI-powered analytics platform capable of automated preprocessing, visualization, trend detection, dashboard generation, and insight extraction from uploaded datasets.
-
----
-
-### 📦 Amazon Product Analysis (EDA)
-
-**Python | Pandas | NumPy | Matplotlib | Seaborn**
-
-Conducted exploratory data analysis on 1400+ products to identify pricing trends, discount behavior, rating distributions, and customer purchasing patterns.
-
----
-
-### 🏆 BrowzBot – Chrome Extension
-
-**JavaScript | Browser Automation**
-
-Hackathon-winning browser automation extension developed during Infinity 2025. Designed to automate repetitive web tasks and improve productivity through intelligent workflow automation.
-
----
-
-### 🎙️ Lynax – Desktop Voice Assistant
-
-**Python | APIs | Automation**
-
-Built an AI-powered desktop assistant capable of voice commands, application control, reminders, system automation, and productivity enhancement.
-
+- Working on **BFSI domain** projects — risk assessment, portfolio analysis, financial BI
+- Building **Power BI dashboards** with advanced DAX measures and KPI tracking
+- Performing **data cleaning, EDA, and modeling** using Python and SQL
+- Analyzing large financial datasets to generate **actionable business insights**
 
 ---
 
 ## 🏆 Achievements
 
-🥇 Winner – Infinity 2025 Hackathon (BrowzBot)
-
-🎓 Academic Excellence Award – Ranked 1st in Class
-
-📊 Data Analytics Intern – Zetheta Algorithms Private Limited
+| Achievement | Details |
+|-------------|---------|
+| 🥇 Hackathon Winner | Infinity 2025 — BrowzBot Chrome Extension |
+| 🎓 Academic Excellence | Ranked 1st in Class |
+| 📊 Internship | Data Analytics Intern — Zetheta Algorithms |
 
 ---
 
+## 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ishwar-sahani&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishwar-sahani&layout=compact&theme=tokyonight" width="48%" />
+</p>
+
+---
 
 ## 📫 Connect With Me
 
-💼 LinkedIn: linkedin.com/in/ishwarsahani18
-
-💻 GitHub: github.com/ishwar-sahani
-
-📧 Email: [your-email@example.com](mailto:your-email@example.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/ishwarsahani18">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:your-email@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-### “Turning Data into Decisions.”
+<p align="center">
+  <i>"Turning Data into Decisions — One Dashboard at a Time."</i> 📊
+</p>
