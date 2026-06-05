@@ -70,21 +70,10 @@ Currently working as a **Data Analytics Intern at Zetheta Algorithms Private Lim
 * PHP
 
 ### Python Libraries
+* Pandas * NumPy * Matplotlib * Seaborn * Flask
 
-* Pandas
-* NumPy
-* Matplotlib
-* Seaborn
-* Flask
-
-### Tools
-
-* Power BI
-* Excel
-* MySQL
-* Jupyter Notebook
-* VS Code
-* Git & GitHub
+### Tools : 
+* Power BI * Excel * MySQL * Jupyter Notebook * VS Code * Git & GitHub
 
 ---
 
@@ -165,15 +154,7 @@ Built an AI-powered desktop assistant capable of voice commands, application con
 
 ---
 
-## 📚 Currently Learning
 
-* Advanced Power BI
-* Machine Learning for Business Analytics
-* Predictive Analytics
-* Financial & BFSI Analytics
-* AI-Powered Data Solutions
-
----
 
 ## 📫 Connect With Me
 
