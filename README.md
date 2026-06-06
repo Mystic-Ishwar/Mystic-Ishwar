@@ -23,15 +23,14 @@ ishwar = {
     "skills"    : ["Power BI", "SQL", "Python", "MySQL", "Excel", "DAX", "R","EDA"],
     "focus"     : ["Business Intelligence", "EDA", "Data Modeling", "Forecasting", "Machine Learning"],
     "interests" : ["Data Analytics","Data Scientist","Financial Analytics", "Business Intelligence", "ML"],
-    "currently" : "Building End-to-End Analytics Projects in BFSI domain",
     "motto"     : "Turning Data into Decisions 📊"
 }
 ```
 
-- 🏢 **Data Analytics Intern** at Zetheta Algorithms Pvt. Ltd. — BFSI domain
+- 🏢 **Data Analytics Intern** at Zetheta Algorithms Pvt. Ltd.
 - 📊 Passionate about **transforming raw data into business insights**
 - 🏆 **Winner** — Infinity 2025 Hackathon (BrowzBot Chrome extension)
-- 🥇 **Academic Excellence Award** — Ranked 1st in Class
+- 🥇 **Academic Excellence Award** — Ranked 1st in Department
 - 🌱 Currently exploring **Machine Learning & Predictive Analytics**
 
 ---
