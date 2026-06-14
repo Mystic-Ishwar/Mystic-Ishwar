@@ -76,7 +76,7 @@ ishwar = {
 
 ---
 
-## 💼 Professional Experience
+##  Professional Experience
 
 ### 📊 Data Analytics Intern | Zetheta Algorithms Pvt. Ltd.
 *June 2026 – Present | Remote*
