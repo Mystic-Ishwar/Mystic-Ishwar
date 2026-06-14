@@ -88,7 +88,7 @@ ishwar = {
 
 ---
 
-## 📌 Featured Projects
+##  Featured Projects
 
 | Project | Tech Stack | Description |
 |---------|------------|-------------|
