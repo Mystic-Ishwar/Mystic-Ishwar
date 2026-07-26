@@ -163,5 +163,3 @@ ishwar = {
   <i>"Turning Data into Decisions — One Dashboard at a Time."</i> 
 </p>
 ```
-
-aisa tha 
