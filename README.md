@@ -1,135 +1,135 @@
+<h1 align="center">Hi, I'm Ishwar Sahani 👋</h1>
 
-<h1 align="center">Hi there, I'm Ishwar Sahani 👋</h1>
-
-<h3 align="center">Data Analyst | SQL | Python | Power BI | Business Intelligence</h3>
+<h3 align="center">
+Data Analyst • Business Intelligence • Power BI • SQL • Python
+</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ishwarsahani18" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="[https://github.com/ishwar-sahani](https://github.com/Mystic-Ishwar)" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+Turning Data into Actionable Business Insights 📊
+</p>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/ishwarsahani18">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Mystic-Ishwar">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="mailto:ishwarsahani1811@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 </p>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-```python
-ishwar = {
-    "role"      : "Data Analytics Intern @ Zetheta Algorithms Pvt. Ltd.",
-    "location"  : "Pune, Maharashtra, India",
-    "skills"    : ["Power BI", "SQL", "Python", "MySQL", "Excel", "DAX", "R","EDA"],
-    "focus"     : ["Business Intelligence", "EDA", "Data Modeling", "Forecasting", "Machine Learning"],
-    "interests" : ["Data Analytics","Data Scientist","Financial Analytics", "Business Intelligence", "ML"],
-    "motto"     : "Turning Data into Decisions 📊"
-}
-```
+I'm a **Data Analyst** passionate about transforming raw data into meaningful business insights through **Business Intelligence, Data Visualization, and Advanced Analytics**.
 
-- 🏢 **Data Analytics Intern** at Zetheta Algorithms Pvt. Ltd.
-- 📊 Passionate about **transforming raw data into business insights**
-- 🏆 **Winner** — Infinity 2025 Hackathon (BrowzBot Chrome extension)
-- 🥇 **Academic Excellence Award** — Ranked 1st in Department
-- 🌱 Currently exploring **Machine Learning & Predictive Analytics**
+I have built **10+ end-to-end analytics projects** across **Retail, E-commerce, BFSI, and AI**, leveraging **SQL, Python, Power BI, Excel, DAX, and Power Query** to solve real-world business problems.
+
+Currently, I'm expanding my expertise in **Machine Learning, Predictive Analytics, Financial Analytics, and AI-powered Data Solutions** while continuously building impactful analytics projects.
 
 ---
 
+# 💼 Professional Experience
 
-## 🛠️ Data Analytics & Data Science Tech Stack
+### 📊 Data Analyst Project Intern
+**Zetheta Algorithms Pvt. Ltd.** *(Remote)*
 
-### 📊 Core Analytics & BI
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![DAX](https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Power Query](https://img.shields.io/badge/Power_Query-2B579A?style=for-the-badge&logo=microsoft&logoColor=white)
+- Analyzed structured financial datasets using **Python, SQL, and Power BI** across securitization, bond portfolio analytics, and forex market intelligence.
+- Developed interactive **Power BI dashboards** with **DAX** and **Power Query** for KPI tracking and analytical reporting.
+- Applied **EDA, Data Modeling, and Business Intelligence** techniques to generate actionable business insights.
 
-### 🐍 Data Science & Programming
+---
+
+# 🛠️ Tech Stack
+
+## Programming
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
-### 📦 Python Data Libraries
-![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+## Business Intelligence
 
-### 🛢️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX-F2C811?style=for-the-badge)
+![Power Query](https://img.shields.io/badge/Power_Query-2B579A?style=for-the-badge)
 
-### 🛠️ Analytics Tools
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+## Libraries
 
-### 📈 Data Techniques
-![EDA](https://img.shields.io/badge/EDA-4CAF50?style=for-the-badge&logo=jupyter&logoColor=white)
-![Data Cleaning](https://img.shields.io/badge/Data_Cleaning-2196F3?style=for-the-badge&logo=python&logoColor=white)
-![Data Modeling](https://img.shields.io/badge/Data_Modeling-9C27B0?style=for-the-badge&logo=dbt&logoColor=white)
-![ETL](https://img.shields.io/badge/ETL-FF5722?style=for-the-badge&logo=apacheairflow&logoColor=white)
-![Forecasting](https://img.shields.io/badge/Forecasting-00BCD4?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Statistics](https://img.shields.io/badge/Statistics-795548?style=for-the-badge&logo=python&logoColor=white)
-![ML](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
+
+## Tools
+
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code)
 
 ---
 
-##  Professional Experience
+# 🌟 Featured Projects
 
-### 📊 Data Analytics Intern | Zetheta Algorithms Pvt. Ltd.
-*June 2026 – Present | Remote*
-
-- Working on **BFSI (Banking, Financial Services & Insurance)** analytics projects — risk assessment, portfolio analysis, financial BI.
-- Building **Power BI dashboards** with advanced DAX measures, KPIs, and interactive reporting.
-- Performing **data cleaning, EDA, and modeling** using Python and SQL.
-- Analyzing large financial datasets to generate **actionable business insights** for stakeholders.
-
----
-
-##  Featured Projects
-
-| Project | Tech Stack | Description |
-|---------|------------|-------------|
-| 🛒 **End-to-End Retail Sales Analysis** | `Python` `SQL` `Power BI` | Complete analytics: data extraction, cleaning, EDA, KPI dashboard, sales & customer insights. |
-| 🎵 **Spotify Music Analytics Dashboard** | `Power BI` `DAX` `Power Query` | Analyzed 950+ tracks & 489B+ streams across Spotify, Apple Music, Deezer. Artist ranking, audio features, platform comparison. |
-| 📈 **Sales Dashboard + Forecasting** | `Power BI` `DAX` | Interactive dashboard with regional trends, YoY analysis, and 15-day sales forecasting model. |
-| 📦 **Amazon Product EDA** | `Python` `Pandas` `Seaborn` | EDA on 1465+ listings — pricing trends, discount patterns, rating analysis, category insights. |
-| 🗄️ **Zomato SQL Business Analysis** | `MySQL` | 19 advanced SQL queries — JOINs, CTEs, Window Functions, Stored Procedures, business KPI extraction. |
-| 📱 **Mobile Sales Dashboard** | `Power BI` `DAX` | ₹769M+ sales across 20+ Indian cities — brand performance, payment methods, monthly slicers. |
-| 🤖 **AIVA – AI Virtual Analyst** | `Python` `Flask` `Chart.js` `Tailwind` | AI-powered platform: CSV upload, auto preprocessing, interactive dashboards, trend detection, report generation. |
-| 🏆 **BrowzBot – Chrome Extension** | `JavaScript` | Infinity 2025 Hackathon winner — automates repetitive browser tasks. |
-| 🎙️ **Lynax – Desktop Voice Assistant** | `Python` `APIs` | AI assistant with voice recognition, system automation, reminders. |
-
+| Project | Description |
+|---------|-------------|
+| 🤖 **AIVA – AI Virtual Analyst** | AI-powered analytics platform for automated insights, dashboards, forecasting, and reporting. |
+| 📊 **Retail Sales Analytics Dashboard** | End-to-end analytics solution using Python, SQL, and Power BI with KPI dashboards. |
+| 🎵 **Spotify Music Analytics Dashboard** | Interactive dashboard analyzing 950+ songs and 489B+ streams using Power BI and DAX. |
+| 🛒 **Amazon Product Analysis (EDA)** | Python-based exploratory data analysis on 1465+ Amazon products. |
+| 🗄️ **Advanced Food Delivery SQL Analytics** | Advanced SQL project using JOINS, CTEs, Window Functions, and Stored Procedures for business insights. |
 
 ---
 
-## 🏆 Achievements & Awards
+# 🏆 Achievements
 
-| Achievement | Details |
-|-------------|---------|
-| 🥇 **Infinity 2025 Hackathon Winner** | First prize — BrowzBot Chrome extension |
-| 🎓 **Academic Excellence Award** | Ranked 1st in department at Ness Wadia College of Commerce |
-| 📜 **Certifications** | *Kaggle Data Cleaning, Kaggle Data Visualization, Power BI, Python for Data Science , SQL & Relational Database |* |
+🥇 Infinity 2025 Hackathon Winner
+
+🏆 Academic Excellence Award — Ranked 1st in Department
+
+📜 IBM • Kaggle • Microsoft Power BI Certifications
 
 ---
 
-
-## 📫 Let's Connect
+# 📈 GitHub Analytics
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ishwarsahani18">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:ishwarsahani18@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Mystic-Ishwar&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mystic-Ishwar&layout=compact&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Mystic-Ishwar&theme=tokyonight"/>
+
 </p>
 
 ---
 
+# 🤝 Let's Connect
+
+📧 **Email:** ishwarsahani1811@gmail.com
+
+💼 **LinkedIn:** https://linkedin.com/in/ishwarsahani18
+
+🐙 **GitHub:** https://github.com/Mystic-Ishwar
+
+---
+
 <p align="center">
-  <i>"Turning Data into Decisions — One Dashboard at a Time."</i> 
+
+⭐ <b>Building data-driven solutions through Analytics, Business Intelligence, and AI.</b>
+
 </p>
-```
