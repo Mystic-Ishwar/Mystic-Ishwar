@@ -17,20 +17,44 @@
 
 ```python
 ishwar = {
-    "role"      : "Data Analytics Intern @ Zetheta Algorithms Pvt. Ltd.",
+    "role"      : "Data Analyst",
+    "experience": "Data Analyst Project Intern @ Zetheta Algorithms Pvt. Ltd.",
     "location"  : "Pune, Maharashtra, India",
-    "skills"    : ["Power BI", "SQL", "Python", "MySQL", "Excel", "DAX", "R","EDA"],
-    "focus"     : ["Business Intelligence", "EDA", "Data Modeling", "Forecasting", "Machine Learning"],
-    "interests" : ["Data Analytics","Data Scientist","Financial Analytics", "Business Intelligence", "ML"],
-    "motto"     : "Turning Data into Decisions 📊"
+
+    "skills"    : [
+        "Power BI",
+        "SQL",
+        "Python",
+        "Excel",
+        "DAX",
+        "Power Query",
+        "MySQL"
+    ],
+
+    "focus"     : [
+        "Business Intelligence",
+        "Data Analytics",
+        "Data Visualization",
+        "Financial Analytics",
+        "Dashboard Development"
+    ],
+
+    "learning"  : [
+        "Machine Learning",
+        "Predictive Analytics",
+        "Generative AI"
+    ],
+
+    "motto"     : "Turning Data into Actionable Business Insights 📊"
 }
 ```
 
-- 🏢 **Data Analytics Intern** at Zetheta Algorithms Pvt. Ltd.
-- 📊 Passionate about **transforming raw data into business insights**
-- 🏆 **Winner** — Infinity 2025 Hackathon (BrowzBot Chrome extension)
-- 🥇 **Academic Excellence Award** — Ranked 1st in Department
-- 🌱 Currently exploring **Machine Learning & Predictive Analytics**
+- 💼 Completed **Data Analyst Project Internship** at **Zetheta Algorithms Pvt. Ltd.**
+- 📊 Built **10+ end-to-end analytics projects** across Retail, E-commerce, BFSI & AI.
+- 📈 Passionate about **Business Intelligence, Data Visualization & Financial Analytics**.
+- 🏆 **Winner** — Infinity 2025 Hackathon (BrowzBot Chrome Extension).
+- 🥇 **Academic Excellence Award** — Ranked **1st in Department**.
+- 🌱 Currently exploring **Machine Learning, Predictive Analytics & Generative AI**.
 
 ---
 
@@ -77,15 +101,23 @@ ishwar = {
 
 ##  Professional Experience
 
-### 📊 Data Analytics Intern | Zetheta Algorithms Pvt. Ltd.
-*June 2026 – Present | Remote*
+###  Data Analyst Project Intern | Zetheta Algorithms Pvt. Ltd.
+*June 2026 – July 2026 | Remote*
 
-- Working on **BFSI (Banking, Financial Services & Insurance)** analytics projects — risk assessment, portfolio analysis, financial BI.
-- Building **Power BI dashboards** with advanced DAX measures, KPIs, and interactive reporting.
-- Performing **data cleaning, EDA, and modeling** using Python and SQL.
-- Analyzing large financial datasets to generate **actionable business insights** for stakeholders.
+- Analyzed structured financial datasets using **Python, SQL, and Power BI** across securitization, bond portfolio analytics, and forex market intelligence.
+- Developed interactive **Business Intelligence dashboards** using **Power BI, DAX, and Power Query** for KPI tracking and analytical reporting.
+- Applied **EDA, data modeling, and analytical reporting** to transform raw data into actionable business insights.
 
 ---
+
+## 📜 Certifications
+
+-  IBM – Data Analyst Career Preparation
+-  Microsoft Power BI
+-  IBM – SQL & Relational Databases
+-  Python for Data Science (Udemy)
+-  Kaggle – Data Cleaning
+-  Kaggle – Data Visualization
 
 ##  Featured Projects
 
@@ -110,7 +142,6 @@ ishwar = {
 |-------------|---------|
 | 🥇 **Infinity 2025 Hackathon Winner** | First prize — BrowzBot Chrome extension |
 | 🎓 **Academic Excellence Award** | Ranked 1st in department at Ness Wadia College of Commerce |
-| 📜 **Certifications** | *Kaggle Data Cleaning, Kaggle Data Visualization, Power BI, Python for Data Science , SQL & Relational Database |* |
 
 ---
 
