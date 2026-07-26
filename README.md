@@ -39,12 +39,6 @@ ishwar = {
         "Dashboard Development"
     ],
 
-    "learning"  : [
-        "Machine Learning",
-        "Predictive Analytics",
-        "Generative AI"
-    ],
-
     "motto"     : "Turning Data into Actionable Business Insights 📊"
 }
 ```
